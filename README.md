@@ -6,3 +6,21 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Project setup
+
+1. Go to project directory dynamic-filter then
+
+```bash
+npm i
+```
+
+2. After installation successfully run project 
+
+```bash
+npm run dev
+```
+
+## third party modules
+- bootstrap
+- react-bootstrap
